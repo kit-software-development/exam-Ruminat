@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "electron-store": "^3.3.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "tiptap": "^1.22.2",
     "tiptap-extensions": "^1.22.2",
